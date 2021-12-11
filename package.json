@@ -1,0 +1,25 @@
+{
+  "name": "ideia-unica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorgesGIT/ideia-unica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorgesGIT/ideia-unica/issues"
+  },
+  "homepage": "https://github.com/BorgesGIT/ideia-unica#readme",
+  "dependencies": {
+    "dom": "^0.0.3",
+    "next": "^12.0.7",
+    "react": "^17.0.2"
+  }
+}
